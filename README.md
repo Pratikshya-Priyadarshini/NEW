@@ -1,3 +1,4 @@
 # NEW
-this is my first repo
-author - Pratikshya Priyadarshini
+this is my first repo. 
+<br/>
+Author - Pratikshya Priyadarshini
